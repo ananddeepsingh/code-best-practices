@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="coding-best-practices">CODING BEST PRACTICES</h1>
 <p>Below are some coding best practices</p>
 <h2 id="dry-principle">1. DRY Principle</h2>
